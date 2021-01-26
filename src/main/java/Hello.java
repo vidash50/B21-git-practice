@@ -8,6 +8,11 @@ public class Hello {
         System.out.println("added new plugin");
 
         //watching
+        // movie on the phone 20 mins
+        // movie on the phone 20 mins
+        // another final 10 mins
+
+
 
 
 
