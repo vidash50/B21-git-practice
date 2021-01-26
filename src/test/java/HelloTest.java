@@ -5,6 +5,10 @@ public class HelloTest {
 
     // hello
 
+    // when merging, you have to select --n0-ff or both --n0-ff and -m
+
+    // merge commit is to merge the feature branch to master
+
 
 
 }
