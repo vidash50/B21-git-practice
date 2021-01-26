@@ -12,6 +12,8 @@ public class Hello {
         // movie on the phone 20 mins
         // another final 10 mins
 
+        // remote branch is just a branch but you can get conflicts with the local
+
 
 
 
