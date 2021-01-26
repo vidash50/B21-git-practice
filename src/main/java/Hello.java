@@ -15,11 +15,6 @@ public class Hello {
         // remote branch is just a branch but you can get conflicts with the local
 
 
-
-
-
-
-
-
     }
+
 }
