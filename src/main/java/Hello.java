@@ -9,8 +9,7 @@ public class Hello {
 
         //watching
 
-        // movie on the phone
-        // movie on the phone 20 mins
+        // oh l like this movie
 
 
 
